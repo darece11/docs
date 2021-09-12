@@ -21,7 +21,7 @@ topics:
   - 2FA
   - Identity
   - Access management
-  - Usernames
+  - darece
   - Device verification
 children:
   - /keeping-your-account-and-data-secure
